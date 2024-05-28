@@ -5,7 +5,7 @@
 
     <application
         android:usesCleartextTraffic="true"
-        android:label="MVLConsulting"
+        android:label="MVL consulting"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
