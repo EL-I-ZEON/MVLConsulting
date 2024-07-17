@@ -12,6 +12,9 @@ dependencies:
   cupertino_icons: ^1.0.2
   webview_flutter: ^4.0.1
   flutter_inappwebview: ^5.4.3
+  connectivity_plus: ^3.0.3
+  shared_preferences: ^2.0.6
+  url_launcher: ^6.0.9
 
 flutter_icons:
   android: true
