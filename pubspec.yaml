@@ -1,6 +1,6 @@
 name: MVLconsulting
 description: A Flutter project to mirror and enhance mvlconsulting website.
-version: 1.0.1+2
+version: 1.1.2
 
 environment:
   sdk: ">=2.17.0 <3.0.0"
